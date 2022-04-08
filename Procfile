@@ -1,1 +1,1 @@
-worker: npm install && npm i ffmpeg
+worker: npm install && npm i ffmpeg && node .
